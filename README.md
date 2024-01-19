@@ -1,2 +1,2 @@
 # Digital-Image-Processing
-Homework from DIP class
+Homework , Practice  from DIP class
